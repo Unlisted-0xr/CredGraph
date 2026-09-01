@@ -118,12 +118,12 @@ credgraph/
 ├── tests/
 └── docs/
 ```
-##Educational Use
-```text
+## Educational Use
+
 CredGraph is intended for educational purposes, security research, and authorized testing only. Use it only on systems, repositories, and data you have permission to analyze.
 
 The code is also thoroughly commented to make the implementation and underlying concepts easy to understand.
-```
+
 ## License
 
 MIT
